@@ -1,0 +1,286 @@
+[
+  {
+    "scheme_id": "PM-KISAN-01",
+    "scheme_name": "Pradhan Mantri Kisan Samman Nidhi (PM-KISAN)",
+    "level": "Central (All India)",
+    "ministry": "Ministry of Agriculture and Farmers Welfare, Government of India",
+    "category": "Agriculture & Income Support",
+    "source_url": "https://pmkisan.gov.in/",
+    "guidelines_url": "https://pmkisan.gov.in/Documents/RevisedPM-KISANOperationalGuidelines(English).pdf",
+    "summary": "Provides direct income support of Rs. 6,000 per year in three equal installments of Rs. 2,000 every four months via Direct Benefit Transfer (DBT) to landholding farmer families across India.",
+    "eligibility_rules": [
+      "Applicant must be an Indian citizen belonging to a landholding farmer family with cultivable land in their name.",
+      "Institutional landholders are NOT eligible.",
+      "Families where any member is an income tax payee in the last assessment year are NOT eligible.",
+      "Serving or retired officers/employees of Central or State Government Ministries/Offices/PSUs (excluding Class IV / Group D employees) and pensioners receiving Rs. 10,000 or more per month are NOT eligible.",
+      "Practicing professionals such as doctors, engineers, lawyers, chartered accountants, and architects registered with professional bodies are NOT eligible."
+    ],
+    "required_documents": [
+      "Aadhaar Card (mandatory for e-KYC and Aadhaar-seeded DBT payment)",
+      "Landholding / Record of Rights (RTC / Pahani / Khatauni) showing cultivable land ownership",
+      "Aadhaar-linked Active Bank Account Passbook",
+      "Active Mobile Number linked with Aadhaar for OTP verification"
+    ],
+    "application_steps": [
+      "Step 1: Visit the official PM-KISAN portal (https://pmkisan.gov.in/) or the nearest Common Service Centre (CSC).",
+      "Step 2: Click on 'New Farmer Registration' under the Farmers Corner section.",
+      "Step 3: Select Rural or Urban Farmer registration, enter your 12-digit Aadhaar number, mobile number, and select your State.",
+      "Step 4: Complete Aadhaar OTP verification and fill in personal, bank, and landholding survey/khata details.",
+      "Step 5: Upload supporting land ownership documents and submit the form.",
+      "Step 6: Complete mandatory e-KYC on the portal and track status via 'Know Your Status' (https://pmkisan.gov.in/beneficiarystatus_new.aspx)."
+    ],
+    "required_profile_fields": [
+      "occupation",
+      "land_ownership",
+      "income_tax_payer"
+    ]
+  },
+  {
+    "scheme_id": "AB-PMJAY-02",
+    "scheme_name": "Ayushman Bharat Pradhan Mantri Jan Arogya Yojana (AB-PMJAY)",
+    "level": "Central (All India)",
+    "ministry": "Ministry of Health and Family Welfare / National Health Authority (NHA)",
+    "category": "Healthcare & Medical Insurance",
+    "source_url": "https://beneficiary.nha.gov.in/",
+    "guidelines_url": "https://www.india.gov.in/spotlight/details/ayushman-bharat-pradhan-mantri-jan-arogya-yojana",
+    "summary": "Flagship national health protection scheme providing cashless secondary and tertiary hospitalization cover of up to Rs. 5,00,000 per family per year at empanelled public and private hospitals across India.",
+    "eligibility_rules": [
+      "Households listed in the Socio-Economic Caste Census (SECC) 2011 deprivation and occupational criteria (rural and urban) or holding eligible Ration Cards (BPL / Antyodaya Anna Yojana / priority households).",
+      "Senior citizens aged 70 years and above are eligible for Ayushman Vaya Vandana health coverage regardless of income status.",
+      "No cap on family size, age, or gender for eligible households; pre-existing diseases are covered from Day 1."
+    ],
+    "required_documents": [
+      "Aadhaar Card of the beneficiary and family members",
+      "Ration Card (BPL / AAY / PHH) or Family ID / SECC-linked Household ID",
+      "Active Mobile Number for OTP authentication",
+      "Address Proof and Domicile Proof"
+    ],
+    "application_steps": [
+      "Step 1: Access the official NHA Beneficiary Portal (https://beneficiary.nha.gov.in/) or Ayushman App.",
+      "Step 2: Log in as a 'Beneficiary' using your mobile number and OTP verification.",
+      "Step 3: Search your household record by State, Scheme (PMJAY), District, Family ID (Ration Card), or Aadhaar number.",
+      "Step 4: Select the unidentified family member and click 'e-KYC' to authenticate via Aadhaar OTP, fingerprint, or face authentication.",
+      "Step 5: Once e-KYC is approved, download the Ayushman Card directly from the portal or at an empanelled hospital (Arogya Mitra desk) / CSC."
+    ],
+    "required_profile_fields": [
+      "annual_income",
+      "ration_card_type",
+      "age"
+    ]
+  },
+  {
+    "scheme_id": "PMMY-MUDRA-03",
+    "scheme_name": "Pradhan Mantri MUDRA Yojana (PMMY)",
+    "level": "Central (All India)",
+    "ministry": "Ministry of Finance, Government of India",
+    "category": "Small Business, Self-Employment & MSME Credit",
+    "source_url": "https://web.umang.gov.in/landing/scheme/detail/pradhan-mantri-mudra-yojana_pmmy.html",
+    "guidelines_url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2069170",
+    "summary": "Provides collateral-free institutional credit to non-corporate, non-farm micro and small enterprises across Manufacturing, Trading, Services, and allied agricultural activities under Shishu (up to Rs. 50,000), Kishore (Rs. 50,000 to Rs. 5 lakh), Tarun (Rs. 5 lakh to Rs. 10 lakh), and Tarun Plus (up to Rs. 20 lakh for repeat borrowers).",
+    "eligibility_rules": [
+      "Applicant must be an Indian citizen aged 18 years or above.",
+      "Must have a viable business plan for a non-farm micro/small enterprise (manufacturing, processing, trading, service sector, or allied agri-activities like poultry, dairy, beekeeping).",
+      "Applicant must not be a defaulter to any bank or financial institution and must have a satisfactory credit track record.",
+      "Eligible entities include individuals, proprietorships, partnership firms, and small micro-units."
+    ],
+    "required_documents": [
+      "Identity Proof (Aadhaar Card, PAN Card, Voter ID, Driving License, or Passport)",
+      "Address Proof of Applicant and Business Premises (Utility Bill, Rental Agreement, or Property Tax Receipt)",
+      "Passport-size Photographs (2 copies)",
+      "Business Plan / Project Report and proforma invoices for machinery or equipment to be purchased",
+      "Last 6 months Bank Account Statement (if existing account/business) and Business Registration/Udyam Certificate (if applicable)",
+      "Caste Certificate (SC/ST/OBC/Minority, if applicable for category tagging)"
+    ],
+    "application_steps": [
+      "Step 1: Determine the required loan category: Shishu (up to Rs. 50,000), Kishore (Rs. 50,001 to Rs. 5,00,000), or Tarun (Rs. 5,00,001 to Rs. 10,00,000).",
+      "Step 2: Prepare a concise business project report and quotation for equipment/working capital.",
+      "Step 3: Apply online via the JanSamarth portal, UMANG portal (https://web.umang.gov.in/landing/scheme/detail/pradhan-mantri-mudra-yojana_pmmy.html), or visit a scheduled commercial bank / RRB / MFI.",
+      "Step 4: Fill out the PMMY application form and upload KYC, address, and business documents.",
+      "Step 5: Upon bank appraisal and verification, the collateral-free loan is sanctioned and disbursed."
+    ],
+    "required_profile_fields": [
+      "age",
+      "occupation",
+      "business_intent"
+    ]
+  },
+  {
+    "scheme_id": "SSY-GIRL-04",
+    "scheme_name": "Sukanya Samriddhi Account Scheme (SSY)",
+    "level": "Central (All India)",
+    "ministry": "Ministry of Finance (National Savings Institute / India Post)",
+    "category": "Child Welfare, Girl Child Education & Savings",
+    "source_url": "https://www.nsiindia.gov.in/InternalPage.aspx?Id_Pk=89",
+    "guidelines_url": "https://www.indiapost.gov.in/documents/offerings/schemesandservices/posb/SukanyaSamriddhiAccountScheme2019English.pdf",
+    "summary": "Government-backed small savings scheme under the Beti Bachao Beti Padhao initiative offering a high tax-free interest rate and Section 80C tax deduction (minimum deposit Rs. 250/year, maximum Rs. 1.50 lakh/year) for the future education and marriage of a girl child.",
+    "eligibility_rules": [
+      "Account can be opened by a natural or legal guardian in the name of a girl child from her birth until she attains the age of 10 years.",
+      "Both the guardian and the girl child must be resident Indian citizens.",
+      "Only one account is permitted per girl child, and a family can open accounts for a maximum of two girl children (exception allowed for twins/triplets born in the second birth)."
+    ],
+    "required_documents": [
+      "Birth Certificate of the girl child issued by a competent municipal/hospital authority",
+      "Identity Proof of the parent or legal guardian (Aadhaar Card, PAN Card, Passport)",
+      "Address Proof of the parent or legal guardian",
+      "Passport-size photographs of both the girl child and the parent/guardian",
+      "Completed Sukanya Samriddhi Account Opening Form (Form-1) at India Post or an authorized bank"
+    ],
+    "application_steps": [
+      "Step 1: Visit the nearest India Post Office or an authorized commercial bank branch.",
+      "Step 2: Obtain and fill out the Sukanya Samriddhi Account Opening Form (see https://www.nsiindia.gov.in/InternalPage.aspx?Id_Pk=89).",
+      "Step 3: Attach the girl child's Birth Certificate along with the parent/guardian's Aadhaar and PAN copies.",
+      "Step 4: Deposit the initial contribution (minimum Rs. 250, up to Rs. 1,50,000 in a financial year).",
+      "Step 5: Collect the passbook issued by the Post Office or bank upon account activation."
+    ],
+    "required_profile_fields": [
+      "has_girl_child_under_10"
+    ]
+  },
+  {
+    "scheme_id": "PMAY-HOUSING-05",
+    "scheme_name": "Pradhan Mantri Awas Yojana (PMAY - Urban 2.0 & Gramin)",
+    "level": "Central (All India)",
+    "ministry": "Ministry of Housing and Urban Affairs (MoHUA) & Ministry of Rural Development",
+    "category": "Affordable Housing & Shelter",
+    "source_url": "https://pmaymis.gov.in/pmaymis2_2024/PMAY_SURVEY/EligiblityCheck.aspx",
+    "guidelines_url": "https://pmayg.dord.gov.in/netiayHome/Home.aspx",
+    "summary": "Provides financial assistance and interest subsidies to eligible urban and rural households who do not own a pucca (permanent) house anywhere in India, enabling construction, purchase, or enhancement of an all-weather pucca house.",
+    "eligibility_rules": [
+      "The beneficiary family (husband, wife, and unmarried children) must NOT own a pucca house in his/her or any family member's name in any part of India.",
+      "For PMAY-Urban 2.0: Household must fall under EWS (annual income up to Rs. 3,00,000), LIG (annual income Rs. 3,00,000 to Rs. 6,00,000), or MIG (annual income Rs. 6,00,000 to Rs. 9,00,000).",
+      "For PMAY-Gramin: Houseless rural families or families living in zero, one, or two-room kutcha houses with kutcha walls and kutcha roof as per SECC / Awaas+ survey.",
+      "The family must not have availed central/state housing scheme assistance in the past 20 years."
+    ],
+    "required_documents": [
+      "Aadhaar Card details of all family members",
+      "Income Certificate issued by competent authority or salary/ITR proof showing EWS/LIG/MIG status",
+      "Self-Declaration / Affidavit stating that the applicant or family members do not own a pucca house anywhere in India",
+      "Aadhaar-seeded Bank Account Passbook",
+      "Land ownership / property title documents (if applying for Beneficiary-Led Construction - BLC)",
+      "Ration Card / Family ID"
+    ],
+    "application_steps": [
+      "Step 1: Visit the official PMAY-U 2.0 Eligibility & Survey Portal (https://pmaymis.gov.in/pmaymis2_2024/PMAY_SURVEY/EligiblityCheck.aspx) for urban applicants, or contact the Gram Panchayat / Awaas+ portal (https://pmayg.dord.gov.in/netiayHome/Home.aspx) for rural applicants.",
+      "Step 2: Complete the online eligibility check by selecting your State, income bracket, and housing vertical.",
+      "Step 3: Authenticate using your 12-digit Aadhaar number and Aadhaar-linked mobile OTP.",
+      "Step 4: Fill in household composition, income details, bank account details, and upload the no-pucca-house self-declaration.",
+      "Step 5: Submit the application and note the Assessment ID to track verification status at https://pmaymis.gov.in/track_application_status.aspx."
+    ],
+    "required_profile_fields": [
+      "annual_income",
+      "owns_pucca_house",
+      "residence_type"
+    ]
+  },
+  {
+    "scheme_id": "NSP-SCHOLARSHIP-06",
+    "scheme_name": "National Scholarship Portal (NSP) Central & Post-Matric Scholarships",
+    "level": "Central (All India)",
+    "ministry": "Ministry of Electronics & IT (MeitY) / Ministry of Education / Ministry of Social Justice",
+    "category": "Education & Student Scholarships",
+    "source_url": "https://scholarships.gov.in/",
+    "guidelines_url": "https://scholarships.gov.in/scholarshipEligibility",
+    "summary": "Single-window national portal hosting Central and State Pre-Matric, Post-Matric, and Merit-cum-Means scholarships for students from Class 1 to PhD belonging to SC, ST, OBC, Minority, PwD, and economically weaker backgrounds via Direct Benefit Transfer.",
+    "eligibility_rules": [
+      "Applicant must be an Indian student enrolled in a recognized school, diploma institute, college, or university.",
+      "Annual family income must generally be below the scheme-specific ceiling (typically up to Rs. 2,50,000 per annum for Post-Matric SC/ST/OBC scholarships, or up to Rs. 3,50,000 for NMMSS, and up to Rs. 4,50,000 for Central Sector College/University Scholarship).",
+      "Must meet the minimum academic score requirement (typically 50% to 80% marks in the previous qualifying examination depending on the specific scheme).",
+      "Must hold a mandatory 14-digit NSP One Time Registration (OTR) number linked with Aadhaar."
+    ],
+    "required_documents": [
+      "Aadhaar Card with active linked Mobile Number (for OTR and Face Authentication)",
+      "NPCI/Aadhaar-seeded Bank Account Passbook in the student's name",
+      "Family Income Certificate issued by a competent Tehsildar / Revenue authority",
+      "Caste / Community Certificate (SC / ST / OBC / EWS / Minority, if applicable) or Disability Certificate (PwD)",
+      "Previous Academic Year Mark Sheet and Current Year Bonafide / Admission Fee Receipt",
+      "Domicile Certificate"
+    ],
+    "application_steps": [
+      "Step 1: Visit the official National Scholarship Portal (https://scholarships.gov.in/) and check matching schemes at https://scholarships.gov.in/scholarshipEligibility.",
+      "Step 2: Complete One Time Registration (OTR) at https://scholarships.gov.in/otrapplication/ using your Aadhaar number, mobile OTP, and face authentication via the NSP OTR mobile app to obtain your 14-digit lifetime OTR ID.",
+      "Step 3: Log in to the NSP Student Portal using your 14-digit OTR ID and password.",
+      "Step 4: Select your eligible scholarship scheme, enter academic, institution, category, and income details, and upload required documents.",
+      "Step 5: Verify all entries carefully, click 'Final Submit', and submit a printed copy to your school/college NSP Nodal Officer for institutional verification."
+    ],
+    "required_profile_fields": [
+      "occupation",
+      "annual_income",
+      "category",
+      "education_level"
+    ]
+  },
+  {
+    "scheme_id": "KA-GRUHALAKSHMI-07",
+    "scheme_name": "Gruha Lakshmi Scheme (Karnataka)",
+    "level": "State (Karnataka)",
+    "ministry": "Department of Women and Child Development, Government of Karnataka",
+    "category": "Women Empowerment & Household Financial Assistance",
+    "source_url": "https://schemes.vikaspedia.in/viewcontent/schemesall/state-specific-schemes/welfare-schemes-of-karnataka/gruha-lakshmi-scheme-karnataka?lgn=en",
+    "guidelines_url": "https://schemes.vikaspedia.in/viewcontent/schemesall/state-specific-schemes/welfare-schemes-of-karnataka/gruha-lakshmi-scheme-karnataka?lgn=en",
+    "summary": "Flagship Karnataka state welfare guarantee scheme providing Rs. 2,000 per month (Rs. 24,000 per year) via Direct Benefit Transfer (DBT) to the woman registered as the head of the family on an Antyodaya, BPL, or APL ration card.",
+    "eligibility_rules": [
+      "Applicant must be a permanent resident of Karnataka.",
+      "Applicant must be a woman listed as the Head of the Family in an Antyodaya (AAY), Below Poverty Line (BPL), or Above Poverty Line (APL) Ration Card issued by the Government of Karnataka.",
+      "Only one woman per family can avail the benefit (married, widowed, divorced, or deserted women listed as family head are eligible).",
+      "Families where the woman head of family or her husband is an Income Tax payer or files GST returns are NOT eligible.",
+      "Applicant must have an Aadhaar-linked, NPCI-seeded bank account."
+    ],
+    "required_documents": [
+      "Aadhaar Card of the Woman Head of Family and her spouse",
+      "Karnataka Ration Card (Antyodaya / BPL / APL) showing the applicant as Head of the Family",
+      "Aadhaar-seeded Bank Account Passbook",
+      "Active Mobile Number linked with Aadhaar",
+      "Passport-size Photograph"
+    ],
+    "application_steps": [
+      "Step 1: Visit the Karnataka Seva Sindhu Guarantee Schemes Portal or the nearest Karnataka One / Bengaluru One / Grama One / Bapuji Seva Kendra centre (reference guide: https://schemes.vikaspedia.in/viewcontent/schemesall/state-specific-schemes/welfare-schemes-of-karnataka/gruha-lakshmi-scheme-karnataka?lgn=en).",
+      "Step 2: Log in using Aadhaar-linked mobile number OTP verification and select 'Gruha Lakshmi Scheme'.",
+      "Step 3: Enter your Ration Card number to auto-fetch family head details, and verify personal and bank account details.",
+      "Step 4: Confirm that neither the applicant nor her spouse pays Income Tax or files GST returns.",
+      "Step 5: Submit the application and receive the acknowledgment SMS; Rs. 2,000/month is transferred directly via DBT upon verification."
+    ],
+    "required_profile_fields": [
+      "state",
+      "gender",
+      "ration_card_type",
+      "income_tax_payer"
+    ]
+  },
+  {
+    "scheme_id": "KA-YUVANIDHI-08",
+    "scheme_name": "Yuva Nidhi Scheme (Karnataka)",
+    "level": "State (Karnataka)",
+    "ministry": "Department of Skill Development, Entrepreneurship and Livelihood, Government of Karnataka",
+    "category": "Youth Unemployment Allowance & Skill Support",
+    "source_url": "https://en.vikaspedia.in/viewcontent/schemesall/state-specific-schemes/welfare-schemes-of-karnataka/yuva-nidhi-scheme-karnataka",
+    "guidelines_url": "https://www.karnataka.com/govt/yuva-nidhi-scheme/",
+    "summary": "Provides monthly unemployment assistance of Rs. 3,000 to unemployed graduates/post-graduates and Rs. 1,500 to unemployed diploma holders in Karnataka for up to two years (or until they secure employment) via Direct Benefit Transfer.",
+    "eligibility_rules": [
+      "Applicant must be a permanent resident (domicile) of Karnataka who has studied for at least 6 years in Karnataka.",
+      "Must have completed a Degree (UG/PG) or Diploma from a recognized institution (passing in 2022-23 or subsequent academic years) and remained unemployed for at least 180 days from result declaration.",
+      "Students pursuing higher studies after completing their diploma or graduation are NOT eligible.",
+      "Individuals employed in government or private sector jobs, receiving apprenticeship stipends, availing ESI/PF/NPS, or self-employed under state/central loan schemes are NOT eligible."
+    ],
+    "required_documents": [
+      "Aadhaar Card linked with an active mobile number",
+      "Karnataka Domicile / Study Certificate (minimum 6 years study proof / CET / Ration Card)",
+      "Degree (UG/PG) or Diploma Provisional/Convocation Certificate and Final Marks Cards with USN / Register Number",
+      "SSLC (10th) and PUC (12th) Marks Cards",
+      "Aadhaar-seeded, DBT-enabled Bank Account Passbook",
+      "Monthly Self-Declaration confirming continued unemployment and active job search"
+    ],
+    "application_steps": [
+      "Step 1: Visit the Seva Sindhu Portal or a Karnataka One / Grama One / Bengaluru One centre (reference: https://en.vikaspedia.in/viewcontent/schemesall/state-specific-schemes/welfare-schemes-of-karnataka/yuva-nidhi-scheme-karnataka).",
+      "Step 2: Register and log in using your Aadhaar-linked mobile number and OTP.",
+      "Step 3: Open the 'Yuva Nidhi Scheme' application form and enter your University Seat Number (USN) or Diploma Registration Number for NAD/DigiLocker verification.",
+      "Step 4: Upload domicile proof, educational marks cards, bank details, and submit the unemployment self-declaration.",
+      "Step 5: Submit the monthly self-declaration before the 25th of every month on the Seva Sindhu portal to continue receiving DBT payments."
+    ],
+    "required_profile_fields": [
+      "state",
+      "occupation",
+      "education_level",
+      "unemployed_days"
+    ]
+  }
+]
