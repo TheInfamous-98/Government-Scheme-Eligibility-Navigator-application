@@ -1,4 +1,4 @@
-Government Scheme Eligibility Navigator
+## Government Scheme Eligibility Navigator
 
 A citizen-facing multi-agent assistant where a user describes their situation in plain language and a team of four specialized agents searches public government-scheme documents in **ChromaDB**, checks eligibility against official rules using **Chain-of-Thought (CoT)** reasoning, requests missing profile details, and returns qualifying schemes with required documents, step-by-step application guidance, and clickable source links.
 
